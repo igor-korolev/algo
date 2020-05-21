@@ -1,4 +1,4 @@
-# Algorithms (in Python).
-#### This repository contains my different algorithms implementations.
+# Algorithms (in Python)
+#### This repository contains my implementations of different algorithms
 
-For educational purposes and for use as notes.
+I code it for educational purposes and for use as notes
